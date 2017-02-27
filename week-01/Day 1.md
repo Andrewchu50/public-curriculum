@@ -24,7 +24,7 @@ Unix Commands / The Command Line
 * It's a lot harder to delete everything on your computer than you think.
 * Unix is the language that you will use to talk to your command line
 * No matter what programming language you use professionally after this bootcamp, you will need to know Unix commands and how to use Git (to be covered tomorrow)
-* [Slides 11-16](/week-01/lecture_materials/monday/intro_to_rails_final.pdf)
+* [Slides 11-16](https://github.com/CodePlatoon/public_curriculum/blob/master/week-01/intro_to_rails_final.pdf)
 * [Extra Problem](https://github.com/AdaGold/standalone-exercises/blob/master/terminal-commands.md)
 
 Text Editor Intro

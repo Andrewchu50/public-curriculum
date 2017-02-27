@@ -61,7 +61,6 @@ Code Style
 * [Rubocop](https://github.com/bbatsov/rubocop)
 * [Ruby Style Guide](https://github.com/styleguide/ruby)
 * [AirBnB's Style Guide for Ruby](http://airbnb.io/projects/ruby/)
-* Let's do this [together](https://github.com/CodePlatoon/curriculum_2017/tree/master/week-03/challenges/code_style)
 
 Inheritance
 ----------------
@@ -70,10 +69,9 @@ Inheritance
 * Similarly in coding, let's say we have two classes - a parent and child class. A child class has the ability to inherit all the features of a parent class and any number of methods from the parent class can be overriden in the child class.
 * A good way to think about this is `is-a`. Think of a parent class called Dog for example. There are many types of dogs, right? What are some examples of dogs?
 	* A golden retriever `is-a` dog. A golden retriever in code would inherit from its parent class, Dog.
-* Do a live coding example and ask for feedback of what has a parent/child relationship and show inheritance. Some examples in case students need help: Parent/Child, Animal/Mammal, Car/Toyota
-	* What do we get when we inherit things? We get all the methods available to the parent class.
-	* We can override the parent class methods by defining our own in the child class
-	* To keep code DRY, we may want to use the behavior of the parent class but do something extra before or after. In that case, we use the `super` method.
+* What do we get when we inherit things? We get all the methods available to the parent class.
+* We can override the parent class methods by defining our own in the child class
+* To keep code DRY, we may want to use the behavior of the parent class but do something extra before or after. In that case, we use the `super` method.
 
 Practice
 -------------

@@ -56,7 +56,6 @@ Practice in Ruby
 * Hashes and Hash Tables
 	* For the purposes of our class, hashes and hash tables are synonymous
 	* JS does not have hash tables - it only has objects but acts the same way.
-	* Good introduction into OO
 	* Objects hold sets of key-value pairs in the same way that dictionaries hold word-meaning pairs. Values are assigned to different keys.
 	```
 	var petNames = {dog: ‘Max’}

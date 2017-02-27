@@ -6,7 +6,7 @@ Ruby Fundamentals
 * Most of the names of the methods are also shared - don't be scared of using both languages!
 * [Arrays Continued](https://prezi.com/khg0wb0dqio-/ga/)
 * [Hashes - Slide #46](/week-01/intro_to_rails_final.pdf)
-* [Hash Section](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/01-ruby-fundamentals/02-intro-to-object-types.md)
+* [Hash Section](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/01-ruby-fundamentals/02-intro-to-object-types.md) (courtesy of Ada Developers Academy)
 
 JS/Ruby
 ------------------------

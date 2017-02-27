@@ -133,6 +133,4 @@ Address.new(first_name: "Jeremy", state: "WA")
 Practice
 -------------
 * [Apple Trees](https://github.com/CodePlatoon/apple-trees)
-* [Part 1](https://github.com/CodePlatoon/parsing-data-1)
-* [Part 2](https://github.com/CodePlatoon/parsing-data-2)
 * [Read this great article on CSV and Ruby](https://www.sitepoint.com/guide-ruby-csv-library-part/) - Please note that they are using an older version of Ruby but it should overall be a good resource.

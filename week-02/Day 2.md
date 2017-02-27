@@ -4,7 +4,7 @@ Ruby Gems
 --------------
 * Package manager for distributing Ruby libraries
 * Library == Gem
-* [List of all gems](https://rubygems.org/gems) - Pick out some that are popular and that students will use
+* [List of all gems](https://rubygems.org/gems)
 * Gems are basically thousands of lines of code that someone wrote to make your life easier.
 	* Each gem does something different and serves specific purposes
 
@@ -31,6 +31,7 @@ require 'pry' # at the top of any file
 binding.pry # put this anywhere in the file - this will stop the code when it hits this line
 ```
 * Are you ever wondering what a certain value is when you are iterating over a loop? What a return value is? You can find it in `pry`!
+* A popular alternative to `pry` is `byebug`. It's your call on which debugging tool you want to use.
 
 Debugging with Debugger in Javascript
 ------------------------------------------

@@ -36,8 +36,8 @@ Ruby Fundamentals
 
 Practice in Ruby
 --------------------------------
-* [99 Bottles](https://github.com/CodePlatoon/99_bottles_challenge)
-* [Deaf Grandma](https://github.com/CodePlatoon/deaf_grandma_challenge)
+* [99 Bottles](https://github.com/CodePlatoon/99-bottles)
+* [Deaf Grandma](https://github.com/CodePlatoon/deaf-grandma)
 
 1:00 JS Fundamentals - Collections
 ----------------------------------

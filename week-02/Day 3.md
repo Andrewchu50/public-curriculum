@@ -33,6 +33,6 @@ Practice
 * Read this [Oldie but a goodie](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 * Get familiar with [Rubular](http://rubular.com/)
 * Finish [RegexOne](https://regexone.com/)
-* [SSN](https://github.com/CodePlatoon/validate-ssn) in Ruby regular expressions
+* [Phone Numbers](https://github.com/CodePlatoon/validate-phone) in Ruby regular expressions
 * [Armstrong Numbers](https://github.com/CodePlatoon/armstrong) in JS/Ruby
 * [Stock Picker](https://github.com/CodePlatoon/stockpicker) in JS/Ruby

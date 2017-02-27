@@ -82,6 +82,6 @@ Practice in Ruby
 Practice
 --------------------------
 * [Practice with a Pair](https://github.com/CodePlatoon/git-pair)
-* [Roman Numerals](https://github.com/CodePlatoon/roman_numerals) in Ruby
+* [Roman Numerals](https://github.com/CodePlatoon/roman-numerals) in Ruby
 * [Factorial](https://github.com/CodePlatoon/factorial) in Ruby
-* [Linear Search](https://github.com/CodePlatoon/linear_search) in Ruby
+* [Linear Search](https://github.com/CodePlatoon/linear-search) in Ruby

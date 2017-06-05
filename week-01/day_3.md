@@ -1,5 +1,10 @@
 Day 3
 =======================
+Class Videos
+------------
+* [Part 1](https://vimeo.com/219706114)
+* [Part 2](https://vimeo.com/219742472)
+
 Ruby Fundamentals
 ----------------------
 * Why are we learning two languages?

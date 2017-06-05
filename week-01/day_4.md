@@ -1,5 +1,12 @@
 Day 4
 ======================
+Class Videos
+------------
+Videos relevant to today's work will be interspersed with yesterday's videos
+* [Part 1](https://vimeo.com/219706114)
+* [Part 2](https://vimeo.com/219742472)
+
+
 Ruby Fundamentals
 ----------------------
 * Arrays and Hashes in Ruby are exactly the same as in Javascript

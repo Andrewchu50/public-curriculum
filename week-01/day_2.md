@@ -1,5 +1,15 @@
 Day 2
 =====================
+Class Videos
+------------
+Videos relevant to today's work will be interspersed with yesterday's videos
+* [Part 1](https://vimeo.com/219576470)
+* [Part 2](https://vimeo.com/219552452)
+* [Part 3](https://vimeo.com/219573483)
+* [Part 4](https://vimeo.com/219573441)
+* [Part 5](https://vimeo.com/219579410)
+
+
 Git & Github
 -----------------
 * Git isn't the same as Github. Git is a `Version Control` system while Github is where the systems you are working on are stored

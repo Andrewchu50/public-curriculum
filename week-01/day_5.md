@@ -1,5 +1,9 @@
 Day 5
 ====================
+Class Videos
+------------
+* [Part 1](https://vimeo.com/220009855)
+
 Ruby Fundamentals
 ----------------------
 * Control flow, if/else statements, and loops all work fundamentally the exact same way as they do in Javascript but look a little different

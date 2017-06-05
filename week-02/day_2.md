@@ -1,5 +1,14 @@
 Day 2
 =====================
+Class Videos
+------------
+* [Part 1](https://vimeo.com/219576470)
+* [Part 2](https://vimeo.com/219552452)
+* [Part 3](https://vimeo.com/219573483)
+* [Part 4](https://vimeo.com/219573441)
+* [Part 5](https://vimeo.com/219579410)
+
+
 Ruby Gems
 --------------
 * Package manager for distributing Ruby libraries

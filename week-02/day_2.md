@@ -2,7 +2,9 @@ Day 2
 =====================
 Class Videos
 ------------
-Videos coming soon!
+* [Video 1](https://vimeo.com/220479306)
+* [Video 2](https://vimeo.com/220492567)
+
 
 Ruby Gems
 --------------

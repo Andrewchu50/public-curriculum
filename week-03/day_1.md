@@ -4,6 +4,7 @@ Types of Ruby Variables
 -----------------------
 * [Ruby Variables Video 1](https://vimeo.com/203857910)
 * [Ruby Variables Video 2](https://vimeo.com/203857659)
+* [Ruby Variables Video 3](https://vimeo.com/221285058)
 
 | Type             | Begins With        | Scope                                    |
 |:----------------:|:------------------:|------------------------------------------|

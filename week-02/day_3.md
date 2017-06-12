@@ -2,7 +2,7 @@ Day 3
 =======================
 Class Videos
 ------------
-Videos coming soon!
+* [Video](https://vimeo.com/220641881)
 
 
 Regular Expressions in Ruby

@@ -2,7 +2,8 @@ Day 4
 ======================
 Class Videos
 ------------
-Videos coming soon!
+* [Video 1](https://vimeo.com/220822437)
+* [Video 2](https://vimeo.com/220822487)
 
 
 Test-driven development

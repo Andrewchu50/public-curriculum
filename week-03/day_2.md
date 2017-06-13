@@ -2,7 +2,9 @@ Day 2
 =======================
 CSV as a Database
 ----------------------
-* [CSV Video](https://vimeo.com/204077023)
+* [CSV Video 1](https://vimeo.com/204077023)
+* [Video 2](https://vimeo.com/221483225)
+* [Video 3](https://vimeo.com/221483028)
 
 ### What is a Database?
 A _database_ is a system of storing and organizing information on a computer. In this case a _CSV_ will act as our database. In most cases a database can be thought of as a table or group of tables:

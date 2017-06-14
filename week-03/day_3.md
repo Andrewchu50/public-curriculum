@@ -3,7 +3,7 @@ Day 3
 Videos
 ------
 * [Video 1](https://vimeo.com/221603629)
-* [Video 2]()
+* [Video 2](https://vimeo.com/221632295)
 
 Code Style
 ---------------

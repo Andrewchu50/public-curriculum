@@ -1,5 +1,10 @@
 Day 4
 ======================
+Videos
+------
+* [Video 1](https://vimeo.com/221757591)
+* [Video 2](https://vimeo.com/221766767)
+
 CS Concepts: Benchmarking
 ------------------------------
 * [Benchmarking and Big O](https://vimeo.com/204237961)

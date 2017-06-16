@@ -7,6 +7,10 @@ In this repository, you will find the curriculum for our first three weeks of cl
 ### Recommended / Pre-requisites
 * Once admitted to Code Platoon, students will need to complete 60-100 hours of pre-work to ensure that they will be able to keep up with the rigor of the program. The pre-work resources include:
   * [Learn.co](https://learn.co/sign_in)
-  * [Free Code Camp](https://www.freecodecamp.com) (certain sections)
+  * [Free Code Camp](https://www.freecodecamp.com) - Certain sections under the `Front End Development Certification` track:
+    * HTML5 & CSS
+    * Basic Javascript
+    * Object Oriented and Functional Programming
+    * Basic Algorithm Scripting
   * [Codecademy](www.codecademy.com) (recommended: Javascript / Ruby)
 * If you find our approach appealing and wish to continue your education with us, please apply on [Code Platoon's website](http://www.codeplatoon.org/apply/) or email Rod at Rod@codeplatoon.org

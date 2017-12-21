@@ -19,7 +19,6 @@ We are assuming you are using OSX, as that is what we will be using for this boo
   * [Sublime Text](https://www.sublimetext.com/)
   * [Node](https://nodejs.org/en/download/)
 * Once you've downloaded iTerm2 and Sublime Text, you'll need to install a few things:
-  * [Homebrew](http://brew.sh/)
   * [Installfest](https://gist.github.com/JYoung217/194c2d880e72778c5994f4a3c6812af2)
 
 

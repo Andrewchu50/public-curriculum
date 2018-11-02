@@ -1,4 +1,4 @@
-# Code Platoon Curriculum 2017
+# Code Platoon Curriculum
 
 ## Welcome Message
 Veterans, thank you for your service to our country. Code Platoon NFP's mission is to help bridge the gap between a  military career and the tech world by turning veterans into software developers in a condensed timeframe.

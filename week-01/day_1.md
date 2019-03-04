@@ -1,12 +1,22 @@
 Day 1
 =====
-Class Videos
+In Class Lectures
 ------------
 * [Part 1](https://vimeo.com/219576470)
 * [Part 2](https://vimeo.com/219552452)
 * [Part 3](https://vimeo.com/219573483)
 * [Part 4](https://vimeo.com/219573441)
 * [Part 5](https://vimeo.com/219579410)
+
+Videos - Install Fest
+------------
+* [Part 1](https://vimeo.com/321355712)
+* [Part 2](https://vimeo.com/321355701)
+* [Part 3](https://vimeo.com/321355693)
+* [Part 4](https://vimeo.com/321355684)
+* [Part 5](https://vimeo.com/321355666)
+* [Part 6](https://vimeo.com/321355652)
+
 
 Computer Setup
 --------------

@@ -2,7 +2,6 @@ Day 2
 =====================
 Class Videos
 ------------
-Videos relevant to today's work will be interspersed with yesterday's videos
 * [Git and Github](https://vimeo.com/321543564)
 * [Javascript Fundamentals](https://vimeo.com/321562784)
 

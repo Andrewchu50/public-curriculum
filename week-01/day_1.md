@@ -1,21 +1,19 @@
 Day 1
 =====
-In Class Lectures
-------------
-* [Part 1](https://vimeo.com/219576470)
-* [Part 2](https://vimeo.com/219552452)
-* [Part 3](https://vimeo.com/219573483)
-* [Part 4](https://vimeo.com/219573441)
-* [Part 5](https://vimeo.com/219579410)
 
-Videos - Install Fest
+Videos 
 ------------
-* [Part 1](https://vimeo.com/321355712)
-* [Part 2](https://vimeo.com/321355701)
-* [Part 3](https://vimeo.com/321355693)
-* [Part 4](https://vimeo.com/321355684)
-* [Part 5](https://vimeo.com/321355666)
-* [Part 6](https://vimeo.com/321355652)
+* [Installfest Part 1](https://vimeo.com/321355712)
+* [Installfest Part 2](https://vimeo.com/321355701)
+* [Installfest Part 3](https://vimeo.com/321355693)
+* [Installfest Part 4](https://vimeo.com/321355684)
+* [Installfest Part 5](https://vimeo.com/321355666)
+* [Installfest Part 6](https://vimeo.com/321355652)
+* [Unix Commands / The Command Line](https://vimeo.com/321356828)
+* [Text Editor Intro](https://vimeo.com/321543578)
+* [Git and Github](https://vimeo.com/321543564)
+
+
 
 
 Computer Setup
@@ -35,7 +33,7 @@ We are assuming you are using OSX, as that is what we will be using for this boo
 Unix Commands / The Command Line
 -------------------------------------
 * You are going to live in 3 places: the command line, your text editor, and your browser
-* Use iTerm2 as your default terminal.
+* Use iTerm2 as your default terminal if you are not using the one built in to VS Code.
 * Command Line and Terminal are, for the purposes of our bootcamp, synonymous
 * You can edit colors if you want through `Preferences` to whatever you want
 * It's a lot harder to delete everything on your computer than you think.
@@ -46,10 +44,10 @@ Unix Commands / The Command Line
 
 Text Editor Intro
 -----------------
-* Sublime Text is a great text editor which can be used for free on an unlimited basis or you can pay for it ($70).
-* An open-source, free text editor is called Atom. You can use it if you wish, it's up to you. Use either Sublime or Atom. Please do not use eMacs or Vim for our class.
-* A text editor is literally what it sounds like: an program that allows you to edit any text. Imagine it's Microsoft Word for code. You will write/save code here, and execute it through the Command Line
-* [Shortcuts](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html) There are a LOT and they will save you a lot of time to learn. Peruse this and bookmark it. You'll thank me later.
+* VS Code is a great text editor which can be used for free.
+* An open-source, free text editor is called Atom. You can use it if you wish, it's up to you. Use either VS Code, Sublime or Atom. Please do not use eMacs or Vim for our class.
+* A text editor is literally what it sounds like: a program that allows you to edit any text. Imagine it's Microsoft Word for code. You will write/save code here, and execute it through the Command Line
+* [Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) There are a LOT and they will save you a lot of time to learn. Peruse this and bookmark it. You'll thank me later.
 
 Individual Practice in JS
 -------------------------------

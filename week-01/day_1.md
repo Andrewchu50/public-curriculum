@@ -11,9 +11,6 @@ Videos
 * [Installfest Part 6](https://vimeo.com/321355652)
 * [Unix Commands / The Command Line](https://vimeo.com/321356828)
 * [Text Editor Intro](https://vimeo.com/321543578)
-* [Git and Github](https://vimeo.com/321543564)
-
-
 
 
 Computer Setup

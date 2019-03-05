@@ -3,11 +3,8 @@ Day 2
 Class Videos
 ------------
 Videos relevant to today's work will be interspersed with yesterday's videos
-* [Part 1](https://vimeo.com/219576470)
-* [Part 2](https://vimeo.com/219552452)
-* [Part 3](https://vimeo.com/219573483)
-* [Part 4](https://vimeo.com/219573441)
-* [Part 5](https://vimeo.com/219579410)
+* [Git and Github](https://vimeo.com/321543564)
+* [Javascript Fundamentals](https://vimeo.com/321562784)
 
 
 Git & Github
@@ -50,6 +47,7 @@ Pair Programming
 
 Practice
 --------
+These repos have files for both Javascript and Ruby. For now, just complete the challenges in JS. We'll go over Ruby tomorrow, and then you can go back and complete the challenges in Ruby. 
 * [Roman Numerals](https://github.com/CodePlatoon/roman-numerals) in JS
 * [Factorial](https://github.com/CodePlatoon/factorial) in JS
 * [Linear Search](https://github.com/CodePlatoon/linear-search) in JS

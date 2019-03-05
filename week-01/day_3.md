@@ -2,8 +2,10 @@ Day 3
 =======================
 Class Videos
 ------------
-* [Part 1](https://vimeo.com/219706114)
-* [Part 2](https://vimeo.com/219742472)
+* [Ruby Basics](https://vimeo.com/321596712)
+* [Javascript Arrays](https://vimeo.com/321596697)
+* [Javascript Objects](https://vimeo.com/321596705)
+
 
 Ruby Fundamentals
 ----------------------
@@ -14,7 +16,7 @@ Ruby Fundamentals
 * [Slides 27-39](/week-01/intro_to_rails_final.pdf)
 * Variables - Difference between Ruby and Javascript
 	* JS
-		* You generally declare `var` in front of the variable
+		* You generally declare `let` or `const` in front of the variable
 		* Variables are written in `camelCase`
 	* Ruby
 		* Simply assign your variable to something
@@ -29,14 +31,13 @@ Ruby Fundamentals
 		};
 		```
 		* Need to have a `function` and curly brackets to define where the code block begins and ends
-		* Should generally have `;` semicolons at the end of a train of thought
 	* Ruby
 		```
 		def add_two(number)
 			puts number + 2
 		end
 		```
-		* `def` and `end` wil act as your curly brackets
+		* `def` and `end` will act as your curly brackets
 		* No semicolons necessary
 
 Practice in Ruby
@@ -60,10 +61,10 @@ Practice in Ruby
 	* List of common methods [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * Hashes and Hash Tables
 	* For the purposes of our class, hashes and hash tables are synonymous
-	* JS does not have hash tables - it only has objects but acts the same way.
+	* JS does not have hash tables - it only has objects but they act the same way.
 	* Objects hold sets of key-value pairs in the same way that dictionaries hold word-meaning pairs. Values are assigned to different keys.
 	```
-	var petNames = {dog: ‘Max’}
+	const petNames = {dog: ‘Max’}
 
 
 	// Add key-value pair using dot notation:
@@ -86,7 +87,6 @@ Practice in Ruby
 
 Practice
 --------------------------
-* [Practice with a Pair](https://github.com/CodePlatoon/git-pair)
 * [Roman Numerals](https://github.com/CodePlatoon/roman-numerals) in Ruby
 * [Factorial](https://github.com/CodePlatoon/factorial) in Ruby
 * [Linear Search](https://github.com/CodePlatoon/linear-search) in Ruby

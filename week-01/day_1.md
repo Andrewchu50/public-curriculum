@@ -26,7 +26,7 @@ We are assuming you are using OSX, as that is what we will be using for this boo
   * XCode from the App Store
   * Slack 
   * [iTerm2](https://www.iterm2.com/)
-  * [Sublime Text](https://www.sublimetext.com/)
+  * [VSCode](https://code.visualstudio.com/download)
   * [Node](https://nodejs.org/en/download/)
 * Once you've downloaded iTerm2 and Sublime Text, you'll need to install a few things:
   * [Installfest](https://gist.github.com/JYoung217/194c2d880e72778c5994f4a3c6812af2)

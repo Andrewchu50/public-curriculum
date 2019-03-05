@@ -1,8 +1,8 @@
 # Code Platoon Curriculum
 
 ## Welcome Message
-Veterans, thank you for your service to our country. Code Platoon NFP's mission is to help bridge the gap between a  military career and the tech world by turning veterans into software developers in a condensed timeframe.
-In this repository, you will find the curriculum for our first three weeks of classroom instruction with videos of our current class, Charlie Platoon. This curriculum will include daily challenges and links to any necessary resources. 
+Veterans, thank you for your service to our country. Code Platoon NFP's mission is to help bridge the gap between a military career and the tech world by turning veterans into software developers in a condensed timeframe.
+In this repository, you will find the curriculum for our first three weeks of classroom instruction with videos. The first week of class videos have been recorded separately of class by one of our instructors, Josh. The videos for weeks 2 and 3 are recordings of the material from Charlie Platoon. If you feel that the quality of separately recorded videos is far superior to the class recordings, please email us at info@codeplatoon.org. This curriculum will include daily challenges and links to any necessary resources. 
 
 ### Recommended / Pre-requisites
 * Once admitted to Code Platoon, students will need to complete 60-100 hours of pre-work to ensure that they will be able to keep up with the rigor of the program. The pre-work resources include:

@@ -2,7 +2,7 @@ Day 5
 ====================
 Class Videos
 ------------
-* [Part 1](https://vimeo.com/220009855)
+* [Ruby Classes and OOP ](https://vimeo.com/321851584)
 
 Ruby Fundamentals
 ----------------------

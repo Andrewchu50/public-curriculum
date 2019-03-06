@@ -4,6 +4,7 @@ Class Videos
 ------------
 * [Git and Github](https://vimeo.com/321543564)
 * [Javascript Fundamentals](https://vimeo.com/321562784)
+* [Interpolation](https://vimeo.com/321851843)
 
 
 Git & Github
